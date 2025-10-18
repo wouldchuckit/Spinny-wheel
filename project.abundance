@@ -2050,7 +2050,16 @@
       "x": 0.3181216931216931,
       "y": 0.18105849582172703,
       "uniqueID": 1742078193305,
-      "ioValues": [],
+      "ioValues": [
+        {
+          "name": "Input (1)",
+          "ioValue": 10
+        },
+        {
+          "name": "Input (2)",
+          "ioValue": 10
+        }
+      ],
       "topLevel": false,
       "allAtoms": [
         {
@@ -2070,7 +2079,8 @@
           "ioValues": [
             {
               "name": "diameter",
-              "ioValue": 300
+              "ioValue": 400,
+              "currentEquation": "200"
             }
           ]
         },
@@ -2109,7 +2119,7 @@
           "ioValues": [
             {
               "name": "xDist",
-              "ioValue": 150
+              "ioValue": 200
             },
             {
               "name": "yDist",
@@ -2133,7 +2143,7 @@
               "ioValue": {
                 "geometry": [
                   {
-                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-150-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-36",
+                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-200-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-36",
                     "dimension": "2D",
                     "tags": [],
                     "plane": {
@@ -2157,7 +2167,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-150-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-37",
+                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-200-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-37",
                     "dimension": "2D",
                     "tags": [],
                     "plane": {
@@ -2181,7 +2191,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-150-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-38",
+                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-200-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-38",
                     "dimension": "2D",
                     "tags": [],
                     "plane": {
@@ -2205,7 +2215,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-150-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-39",
+                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-200-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-39",
                     "dimension": "2D",
                     "tags": [],
                     "plane": {
@@ -2229,7 +2239,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-150-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-40",
+                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-200-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-40",
                     "dimension": "2D",
                     "tags": [],
                     "plane": {
@@ -2253,7 +2263,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-150-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-41",
+                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-200-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-41",
                     "dimension": "2D",
                     "tags": [],
                     "plane": {
@@ -2277,7 +2287,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-150-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-42",
+                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-200-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-42",
                     "dimension": "2D",
                     "tags": [],
                     "plane": {
@@ -2301,7 +2311,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-150-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-43",
+                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-200-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-43",
                     "dimension": "2D",
                     "tags": [],
                     "plane": {
@@ -2325,7 +2335,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-150-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-44",
+                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-200-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-44",
                     "dimension": "2D",
                     "tags": [],
                     "plane": {
@@ -2349,7 +2359,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-150-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-45",
+                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-200-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-45",
                     "dimension": "2D",
                     "tags": [],
                     "plane": {
@@ -2373,7 +2383,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-150-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-46",
+                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-200-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-46",
                     "dimension": "2D",
                     "tags": [],
                     "plane": {
@@ -2397,7 +2407,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-150-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-47",
+                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-200-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-47",
                     "dimension": "2D",
                     "tags": [],
                     "plane": {
@@ -2421,7 +2431,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-150-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-48",
+                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-200-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-48",
                     "dimension": "2D",
                     "tags": [],
                     "plane": {
@@ -2445,7 +2455,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-150-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-49",
+                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-200-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-49",
                     "dimension": "2D",
                     "tags": [],
                     "plane": {
@@ -2469,7 +2479,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-150-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-50",
+                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-200-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-50",
                     "dimension": "2D",
                     "tags": [],
                     "plane": {
@@ -2493,7 +2503,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-150-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-51",
+                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-200-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-51",
                     "dimension": "2D",
                     "tags": [],
                     "plane": {
@@ -2517,7 +2527,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-150-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-52",
+                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-200-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-52",
                     "dimension": "2D",
                     "tags": [],
                     "plane": {
@@ -2541,7 +2551,7 @@
                     "bom": []
                   },
                   {
-                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-150-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-53",
+                    "geometry": "5ea22352-18-20-{\"geometry\":\"move-circle-6.5-200-0-0\",\"dimension\":\"2D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-53",
                     "dimension": "2D",
                     "tags": [],
                     "plane": {
@@ -2591,7 +2601,7 @@
             {
               "name": "Shape 2",
               "ioValue": {
-                "geometry": "circle-150",
+                "geometry": "circle-200",
                 "dimension": "2D",
                 "tags": [],
                 "plane": {
@@ -4592,6 +4602,48 @@
           ],
           "fileTypeVersion": 1,
           "compiledBom": []
+        },
+        {
+          "atomType": "Constant",
+          "name": "Constant",
+          "x": 0.04692556634304207,
+          "y": 0.41108545034642036,
+          "uniqueID": "c1f8304a-ccf7-4e8d-b8db-f8bf77c8dc31",
+          "ioValues": [],
+          "value": 400
+        },
+        {
+          "atomType": "Equation",
+          "name": "x/2",
+          "x": 0.16612729234088458,
+          "y": 0.44110854503464203,
+          "uniqueID": "13ea4a65-cfb4-49b7-913c-3c79203ca635",
+          "ioValues": [
+            {
+              "name": "x",
+              "ioValue": 400,
+              "currentEquation": "1"
+            }
+          ],
+          "currentEquation": "x/2"
+        },
+        {
+          "atomType": "Input",
+          "name": "Input (1)",
+          "x": 0.025384615384615384,
+          "y": 0.15384615384615385,
+          "uniqueID": "94730cee-da93-401a-9d32-83d6b7b12484",
+          "ioValues": [],
+          "type": "number"
+        },
+        {
+          "atomType": "Input",
+          "name": "Input (2)",
+          "x": 0.025384615384615384,
+          "y": 0.23076923076923078,
+          "uniqueID": "7c4a0f28-16ca-4b4f-a603-156a1874c22d",
+          "ioValues": [],
+          "type": "number"
         }
       ],
       "allConnectors": [
@@ -4666,6 +4718,24 @@
           "ap2Name": "geometry2",
           "ap1ID": 1742081512527,
           "ap2ID": 1742081700667
+        },
+        {
+          "ap1Name": "number",
+          "ap2Name": "diameter",
+          "ap1ID": "c1f8304a-ccf7-4e8d-b8db-f8bf77c8dc31",
+          "ap2ID": 1742078267124
+        },
+        {
+          "ap1Name": "number",
+          "ap2Name": "x",
+          "ap1ID": "c1f8304a-ccf7-4e8d-b8db-f8bf77c8dc31",
+          "ap2ID": "13ea4a65-cfb4-49b7-913c-3c79203ca635"
+        },
+        {
+          "ap1Name": "result",
+          "ap2Name": "xDist",
+          "ap1ID": "13ea4a65-cfb4-49b7-913c-3c79203ca635",
+          "ap2ID": 1742078864451
         }
       ],
       "fileTypeVersion": 1,
@@ -4832,8 +4902,7 @@
           "ioValues": [
             {
               "name": "x-axis degrees",
-              "ioValue": 0,
-              "currentEquation": "0"
+              "ioValue": 0
             },
             {
               "name": "y-axis degrees",
